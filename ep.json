@@ -1,0 +1,11 @@
+{
+  "parts": [
+    {
+      "name": "sociallinks",
+      "hooks": {
+        "eejsBlock_embedPopup": "ep_sociallinks/hooks",
+        "eejsBlock_scripts": "ep_sociallinks/hooks"
+      }
+    }
+  ]
+}
